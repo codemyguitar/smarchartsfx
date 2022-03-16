@@ -1,3 +1,10 @@
+## Notes about this repo
+- This Laravel application is for demo/exam purposes only
+- The inputs have very minimal filtering
+- Seeding will create 5 new demo contacts (optional)
+- Phone number filtering is in effect.  This requires a minimum of 10 digits.  spaces, dots, and dashes are allowed but must follow standard phone number formatting.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
