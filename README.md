@@ -3,6 +3,7 @@
 - The inputs have very minimal filtering
 - Seeding will create 5 new demo contacts (optional)
 - Phone number filtering is in effect.  This requires a minimum of 10 digits.  spaces, dots, and dashes are allowed but must follow standard phone number formatting.
+- Also, comments have been added to most (if not all) of the new/custom code added although, there might be some that were overlooked.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
